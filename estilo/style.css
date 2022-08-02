@@ -182,6 +182,10 @@ aside > ul {
     list-style-type: '\2714\00A0\00A0';
 }
 
+aside abbr {
+    text-decoration: none;
+}
+
 footer {
     background-color: var(--cor5);
     color: #fff;
